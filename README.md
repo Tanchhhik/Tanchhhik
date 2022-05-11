@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tanchhhik
+- 👋 Hi, I’m @tanchhhik
 - 👀 I’m interested in Business and Data Analysis, BI Development.
 - 🌱 I’m currently learning SQL, Tableau, Python.
 - 💞️ I’m looking to collaborate on BI projects. 
